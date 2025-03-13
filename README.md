@@ -25,7 +25,7 @@ Features
 - Console-based interface for managing student records
 - Secure database interactions using Prepared Statements
 - Basic error handling and logging
-- 
+  
 Acknowledgments
 - MySQL for providing a robust and widely-used relational database management system
 - JDBC for providing a standard API for accessing relational databases from Java
